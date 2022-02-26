@@ -13,6 +13,10 @@ jupyter = "==1.0.0"
 pre-commit = "==2.17.0"
 
 [dev-packages]
+isort = "*"
+black = "*"
+mypy = "*"
+flake8 = "*"
 
 [requires]
 python_version = "3.10"
